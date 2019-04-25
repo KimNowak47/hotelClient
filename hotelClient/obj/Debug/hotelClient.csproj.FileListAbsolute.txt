@@ -1,0 +1,15 @@
+C:\andersb\tek3\rest\hotelClient\hotelClient\bin\Debug\hotelClient.exe.config
+C:\andersb\tek3\rest\hotelClient\hotelClient\bin\Debug\hotelClient.exe
+C:\andersb\tek3\rest\hotelClient\hotelClient\bin\Debug\hotelClient.pdb
+C:\andersb\tek3\rest\hotelClient\hotelClient\obj\Debug\hotelClient.csprojResolveAssemblyReference.cache
+C:\andersb\tek3\rest\hotelClient\hotelClient\obj\Debug\hotelClient.exe
+C:\andersb\tek3\rest\hotelClient\hotelClient\obj\Debug\hotelClient.pdb
+C:\andersb\tek3\rest\hotelClient\hotelClient\bin\Debug\Newtonsoft.Json.dll
+C:\andersb\tek3\rest\hotelClient\hotelClient\bin\Debug\Newtonsoft.Json.xml
+C:\andersb\tek3\rest\hotelClient\hotelClient\bin\Debug\System.Net.Http.dll
+C:\andersb\tek3\rest\hotelClient\hotelClient\bin\Debug\System.Net.Http.Extensions.dll
+C:\andersb\tek3\rest\hotelClient\hotelClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\andersb\tek3\rest\hotelClient\hotelClient\bin\Debug\System.Net.Http.Primitives.dll
+C:\andersb\tek3\rest\hotelClient\hotelClient\bin\Debug\System.Net.Http.WebRequest.dll
+C:\andersb\tek3\rest\hotelClient\hotelClient\bin\Debug\System.Net.Http.xml
+C:\andersb\tek3\rest\hotelClient\hotelClient\bin\Debug\System.Net.Http.WebRequest.xml
